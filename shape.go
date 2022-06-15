@@ -6,3 +6,4 @@ type Shape interface {
 	// CalcArea returns calculation result of area
 	CalcArea() float64
 }
+
